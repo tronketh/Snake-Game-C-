@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Projects\C++\SnakeCpp\SnakeCpp-core\main.cpp(44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SnakeCpp-core.vcxproj -> E:\Projects\C++\SnakeCpp\bin\Debug\SnakeCpp-core.exe

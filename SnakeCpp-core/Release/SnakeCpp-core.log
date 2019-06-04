@@ -1,0 +1,13 @@
+﻿  game.cpp
+E:\Projects\C++\SnakeCpp\SnakeCpp-core\game.cpp(36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\SnakeCpp\SnakeCpp-core\game.cpp(37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\SnakeCpp\SnakeCpp-core\game.cpp(38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\SnakeCpp\SnakeCpp-core\game.cpp(39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\SnakeCpp\SnakeCpp-core\game.cpp(95): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\SnakeCpp\SnakeCpp-core\game.cpp(102): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 98 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SnakeCpp-core.vcxproj -> E:\Projects\C++\SnakeCpp\bin\Release\SnakeCpp-core.exe
