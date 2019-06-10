@@ -1,4 +1,5 @@
 #include "game.h"
+
 int gridX, gridY;
 std::vector<int> posX, posY;
 short sDirection = RIGHT;

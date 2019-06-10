@@ -1,3 +1,15 @@
-﻿  main.cpp
-E:\Projects\C++\SnakeCpp\SnakeCpp-core\main.cpp(44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  SnakeCpp-core.vcxproj -> E:\Projects\C++\SnakeCpp\bin\Debug\SnakeCpp-core.exe
+﻿  game.cpp
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\game.cpp(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\game.cpp(40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\game.cpp(41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\game.cpp(42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\game.cpp(43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\game.cpp(67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\game.cpp(85): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\game.cpp(115): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\game.cpp(122): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+E:\Projects\C++\Snake-Game-C-\SnakeCpp-core\main.cpp(44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  LINK : E:\Projects\C++\Snake-Game-C-\bin\Debug\SnakeCpp-core.exe not found or not built by the last incremental link; performing full link
+  SnakeCpp-core.vcxproj -> E:\Projects\C++\Snake-Game-C-\bin\Debug\SnakeCpp-core.exe
